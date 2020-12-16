@@ -5,3 +5,5 @@ In this demo, you'll learn how to create and process web forms with Flask, you'l
 First, you'll see how to create the templates and views. 
 
 Next, you'll explore processing the user input and making sure that the form data is safe from potential threats.
+
+In this application, we're going to work with sqlite3.
